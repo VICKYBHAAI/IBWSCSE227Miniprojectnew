@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "331598673118",
+    "project_id": "ibwscse227miniproject",
+    "storage_bucket": "ibwscse227miniproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331598673118:android:edaa8392976f81a893be4f",
+        "android_client_info": {
+          "package_name": "com.vishnu.ibwscse227miniproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331598673118-sip6atmk5sub2ga4hpf400sgma5h3gkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh8hqX4ERHbndlR8v1NG2wdAAyiioUlBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331598673118-sip6atmk5sub2ga4hpf400sgma5h3gkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

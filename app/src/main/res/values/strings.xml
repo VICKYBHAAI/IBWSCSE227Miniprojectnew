@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">IBWSCSE227Miniproject</string>
+    <string name="default_web_client_id">331598673118-sip6atmk5sub2ga4hpf400sgma5h3gkn.apps.googleusercontent.com</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_bnavg_demo1">BNavgDemo1</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="delivery_banner">Shipment Info Banner</string>
+    <!-- Change from %d to %f for double values -->
+    <string name="price_format">₹%.2f</string>
+    <string name="item_added_to_cart">%s added to cart!</string>
+    <string name="title_activity_dash_board">DashBoardActivity</string>
+
+
+</resources>
